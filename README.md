@@ -45,3 +45,8 @@ You should get a recursive listing matching this structure:
   }
 }
 ```
+
+
+Fully recursive queries are forbidden! See the discussion here:
+
+https://github.com/graphql/graphql-spec/issues/91#issuecomment-197999160
