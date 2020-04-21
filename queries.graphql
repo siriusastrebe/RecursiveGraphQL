@@ -1,0 +1,12 @@
+{
+    user(id:1) {
+        id
+        name
+        age
+        children {
+          id
+          name
+          age
+        }
+    }
+}
